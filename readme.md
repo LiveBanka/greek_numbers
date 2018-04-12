@@ -1,7 +1,7 @@
 <h4>Όλοι οι ελληνικοί αριθμοί κινητών σε .txt αρχείο!</h4>
 <p>Greek_numbers v1.0</p>
 <hr>
-<a href ="https://www.paypal.me/livebanka"> <img src="https://img.shields.io/badge/PayPal-Donate-brightgreen.svg" alt="Smiley face"></a>
+
 <p>Κατέβαστε στον υπολογιστή σας όλους τους ελληνικούς αριθμούς κινητών εύκολα και γρήγορα. Το πρόγραμμα είναι δωρεάν και μπορείτε να το τροποποιήσετε όπως εσείς θέλετε.</p>
 <h5>Τι χρειάζετε;</h5>
 <table style="width:100%">
